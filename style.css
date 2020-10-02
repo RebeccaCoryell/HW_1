@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid darkgray;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    /* text-align: center; */
+}
+
+.footer {
+    text-align:center; 
+    background-color:rgb(243, 243, 243); 
+    width:device-width; 
+    padding:5px;
+}
